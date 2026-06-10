@@ -1,4 +1,5 @@
-# DevOps Project 005 — DevSecOps Netflix Clone CI/CD with Monitoring
+# DevOps Project 005 
+# DevSecOps Netflix Clone CI/CD with Monitoring
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=flat&logo=jenkins)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat&logo=docker)
